@@ -1,5 +1,5 @@
 # Week 1 - Debugging & TDD
-This week is all about test-driving our programs, the steps involved so that we can continue on with the approach throughout the rest of our course and careers. We will be introduced to driver-navigator pair programming and explore the debugging process.
+This week is all about test-driving our programs, an exploration of the steps involved so that we can continue on with the approach throughout the rest of our course and careers. We will be introduced to driver-navigator pair programming and explore the debugging process.
 
 ## Goals
 1. Test-drive a simple program using objects and methods
@@ -8,10 +8,10 @@ This week is all about test-driving our programs, the steps involved so that we 
 4. Describe some basic OO principles like encapsulation, SRP
 
 ### Tying our weekly goals into our course goals
-This week will touch upon some of our overall goals that we want to achieve from the course as a whole.
-**_I can TDD anything_** *- Write meaningful tests, based on user requirements, writing the code using TDD to pass tests*
-**_I can program fluently_** *- Setup and create Ruby project structure, turning domain models into working code*
-**_I can debug anything_** *- Learning a consistent approach to uncovering the root-cause of bugs in our code*
+This week will touch upon some of our overall goals that we want to achieve from the course as a whole./
+**_I can TDD anything_** *- Write meaningful tests, based on user requirements, writing the code using TDD to pass tests*/
+**_I can program fluently_** *- Setup and create Ruby project structure, turning domain models into working code*/
+**_I can debug anything_** *- Learning a consistent approach to uncovering the root-cause of bugs in our code*/
 
 ## Plans to achieve my goals
 1. Complete the Boris Bikes challenge and attend the workshops on TDD.
