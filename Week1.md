@@ -8,10 +8,10 @@ This week is all about test-driving our programs, an exploration of the steps in
 4. Describe some basic OO principles like encapsulation, SRP
 
 ### Tying our weekly goals into our course goals
-This week will touch upon some of our overall goals that we want to achieve from the course as a whole./
-**_I can TDD anything_** *- Write meaningful tests, based on user requirements, writing the code using TDD to pass tests*/
-**_I can program fluently_** *- Setup and create Ruby project structure, turning domain models into working code*/
-**_I can debug anything_** *- Learning a consistent approach to uncovering the root-cause of bugs in our code*/
+This week will touch upon some of our overall goals that we want to achieve from the course as a whole.<br />
+**_I can TDD anything_** *- Write meaningful tests, based on user requirements, writing the code using TDD to pass tests*<br />
+**_I can program fluently_** *- Setup and create Ruby project structure, turning domain models into working code*/<br />
+**_I can debug anything_** *- Learning a consistent approach to uncovering the root-cause of bugs in our code*
 
 ## Plans to achieve my goals
 1. Complete the Boris Bikes challenge and attend the workshops on TDD.
