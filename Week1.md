@@ -22,10 +22,11 @@ This week will touch upon some of our overall goals that we want to achieve from
 ## Evidence
 1. Commits on [my Boris Bikes repo](https://github.com/adamwoodcock98/boris-bikes) with pair partner Chris, and on the [Boris Bikes 2 repo]() with pair partner Joe show the extensive step-by-step process used with my partner for development using TDD.
 2. The GitHub collaboration for the completion of the [Boris Bikes challenge](https://github.com/adamwoodcock98/boris-bikes) evidences the use of the driver-navigator technique through the repos commits.
-3. 
+3. A [full written walkthrough](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/debugging-walkthrough.md) of debugging a script, documents this process in detail.
 4. 
 
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
 * [Day 1](https://medium.com/@adam.woodcock98/pinch-me-i-need-to-know-this-is-real-makers-day-1-19fc3d77b63c)
 * [Day 2](https://medium.com/@adam.woodcock98/can-you-hear-that-bug-makers-day-2-480d6ca2cb57)
+* [Day 3](https://medium.com/@adam.woodcock98/fail-to-plan-plan-to-fail-makers-day-3-e56cb060ec4e)
