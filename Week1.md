@@ -20,10 +20,12 @@ This week will touch upon some of our overall goals that we want to achieve from
 4. Work through relevant exercies. Explore Ruby documentation and do some research on SRP.
 
 ## Evidence
-1. Commits on [my Boris Bikes repo](https://github.com/adamwoodcock98/boris-bikes) with pair partner Chris, and on the [Boris Bikes 2 repo]() with pair partner Joe show the extensive step-by-step process used with my partner for development using TDD.
+1. Commits on [my Boris Bikes repo](https://github.com/adamwoodcock98/boris-bikes) with pair partner Chris, and on the [Boris Bikes 2 repo]() with pair partner Joe show the extensive step-by-step process used with my partner for development using TDD. Notes from the workshop can be found [here](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/TDD%20Workshop%20-%2024th%20Feb%202022.md).
 2. The GitHub collaboration for the completion of the [Boris Bikes challenge](https://github.com/adamwoodcock98/boris-bikes) evidences the use of the driver-navigator technique through the repos commits.
 3. A [full written walkthrough](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/debugging-walkthrough.md) of debugging a script, documents this process in detail.
-4. 
+4. The two Boris Bikes repos, [here](https://github.com/adamwoodcock98/boris-bikes) and [here](https://github.com/joe-thornton/boris-bikes-2), both demonstrate encapsulation with the use of classes and private methods. There is a [commit](https://github.com/joe-thornton/boris-bikes-2/commit/ab32bd629eeb43032287be2d5db5d2ac88aba2ed) that also directly references the SRP.
+
+> Add evidence from Aiport challenge when complete, hopefully find time to complete 1 practical or piggy bank to bolster evidence.
 
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
