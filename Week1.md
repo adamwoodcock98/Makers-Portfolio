@@ -32,3 +32,4 @@ I have spent time creating a blog to follow my thoughts/feelings and a record of
 * [Day 1](https://medium.com/@adam.woodcock98/pinch-me-i-need-to-know-this-is-real-makers-day-1-19fc3d77b63c)
 * [Day 2](https://medium.com/@adam.woodcock98/can-you-hear-that-bug-makers-day-2-480d6ca2cb57)
 * [Day 3](https://medium.com/@adam.woodcock98/fail-to-plan-plan-to-fail-makers-day-3-e56cb060ec4e)
+* [Day 4](https://medium.com/@adam.woodcock98/when-it-rains-it-pours-makers-day-4-83a168d193cd)
