@@ -33,3 +33,4 @@ I have spent time creating a blog to follow my thoughts/feelings and a record of
 * [Day 2](https://medium.com/@adam.woodcock98/can-you-hear-that-bug-makers-day-2-480d6ca2cb57)
 * [Day 3](https://medium.com/@adam.woodcock98/fail-to-plan-plan-to-fail-makers-day-3-e56cb060ec4e)
 * [Day 4](https://medium.com/@adam.woodcock98/when-it-rains-it-pours-makers-day-4-83a168d193cd)
+* [Day 5](https://medium.com/@adam.woodcock98/heavy-is-the-head-that-drinks-wine-makers-day-5-3804736d21dd)
