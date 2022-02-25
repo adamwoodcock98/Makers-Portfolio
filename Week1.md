@@ -20,7 +20,7 @@ This week will touch upon some of our overall goals that we want to achieve from
 4. Work through relevant exercies. Explore Ruby documentation and do some research on SRP.
 
 ## Evidence
-1. Commits on [my Boris Bikes repo](https://github.com/adamwoodcock98/boris-bikes) show the complete step-by-step process used with my partner for development using TDD.
+1. Commits on [my Boris Bikes repo](https://github.com/adamwoodcock98/boris-bikes) with pair partner Chris, and on the [Boris Bikes 2 repo]() with pair partner Joe show the extensive step-by-step process used with my partner for development using TDD.
 2. The GitHub collaboration for the completion of the [Boris Bikes challenge](https://github.com/adamwoodcock98/boris-bikes) evidences the use of the driver-navigator technique through the repos commits.
 3. 
 4. 
