@@ -28,7 +28,7 @@ Instance variable
 
 Methods?
 
-### Piggy Bank Live Demo (with Leoh)
+### Piggy Bank Live Demo (with Leo)
 
 1. Creates empty directory
 2. Initialise rspec (`rspec —init`), creates spec dir.
@@ -40,10 +40,10 @@ Methods?
   5. Implement our class, run the test, this should now pass.
   6. Next we want to our `​put_coins`​ method.
 4. Our tests can usually be split into an arrange step, an act step and an assert.
-  1. **Arrange **- setup before our test
-  2. **Act - **make the program "act" (depending on what behaviour we want to test specifically)
+  1. __Arrange__- setup before our test
+  2. __Act__ - make the program "act" (depending on what behaviour we want to test specifically)
     1. It’s okay to use public methods from the program in the tests, as this is the behaviour. This would be for example calling the `​put_coins`​ method as opposed to accessing the instance variable directly.
-  3. **Assert **(check the resulting value, or the behaviour, was correct, likely using RSpec matchers)
+  3. __Assert__ - (check the resulting value, or the behaviour, was correct, likely using RSpec matchers)
   4. Try to think of your methods in terms of their *inputs* and *outputs*, ie. **what values go into them, what values they *return* and what outside methods they call**. This is what the tests should be testing.
 
 ### Testing behaviour over state
@@ -52,6 +52,6 @@ Testing behaviour over state is a concept that should be deeply engrained in our
 
 Behaviour means: **what** is the class doing? 
 
-State means: **how **does it do it?
+State means: **how** does it do it?
 
 This is how we should model our tests.
