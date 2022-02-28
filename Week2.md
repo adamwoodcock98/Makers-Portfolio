@@ -15,19 +15,19 @@ This week will touch upon some of our overall goals that we want to achieve from
 **_I can build with objects_** *- Most code in the world is structured in small pieces called objects. This is done because it is easier to change than having everything in one place.*
 
 ## Plans to achieve my goals
-1.
-2.
-3.
-4.
-5
+1. Through the completion of the Oyster challenge.
+2. By completing the Oyster challenge and attending this weeks workshop.
+3. Through various different challenges and attending the workshop on mocking.
+4. Walkthrough the challenge and attend the peer review workshop.
+5. Peer review a partner's work. Attend the workshop. Use resources available on peer reviewing.
 
 ## Evidence
 1.
 2.
-3.
-4.
-5.
+3. [Several of the commits](https://github.com/adamwoodcock98/airport_challenge/commits/main) on last weeks Airport challenge cover some basic mocks, including `double`s, `let`s and shorthand syntax.
+4. Notes from the workshop on peer reviews demonstrate ease of change principles. This concept is applied through various projects already tagged in this evidence section. Covering the __Single Responsibility Principle__, readability and much more.
+5. My peer review of Christian's work can be seen [here](). Notes 
 
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
-* 
+* [Day 1](https://medium.com/@adam.woodcock98/6ba113e5a65d)
