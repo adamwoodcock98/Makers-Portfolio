@@ -272,7 +272,7 @@ I needed to test the logic of the `​stormy?`​ method, again this would requi
 
 This meant more than just a simple test, we had our `stormy?` method, which at this point has no logic, so before moving on I decided to get this method to *actually* do what we need it to do. Our spec for the challenge has the following:
 
-\> You will need to use a random number generator to set the weather (it is normally sunny but on rare occasions it may be stormy). In your tests, you'll need to use a stub to override random weather to ensure consistent test behaviour.
+> You will need to use a random number generator to set the weather (it is normally sunny but on rare occasions it may be stormy). In your tests, you'll need to use a stub to override random weather to ensure consistent test behaviour.
 
 I thought of using a `​.rand`​ number on a case statement, but in doing some research on the best way, I decided to go with an array of symbols, with duplicate sunny entries, and one stormy entry and then `​sample`​ this array:
 
