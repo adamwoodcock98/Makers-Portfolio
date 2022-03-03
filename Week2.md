@@ -23,7 +23,7 @@ This week will touch upon some of our overall goals that we want to achieve from
 
 ## Evidence
 1.
-2.
+2. Classes were split into two in several steps of the [Oyster challenge](https://github.com/adamwoodcock98/oyster-cards-2). I [blogged about the challenges faced](https://medium.com/@adam.woodcock98/i-can-do-this-can-i-do-this-makers-day-8-c4cd1c58bb04) with this topic. I also attempted this __without__ following TDD on [this branch](https://github.com/adamwoodcock98/oyster-card/tree/experimental).
 3. [Several of the commits](https://github.com/adamwoodcock98/airport_challenge/commits/main) on last weeks Airport challenge cover some basic mocks, including `double`s, `let`s and shorthand syntax.
 4. Notes from the workshop on peer reviews demonstrate ease of change principles. This concept is applied through various projects already tagged in this evidence section. Covering the __Single Responsibility Principle__, readability and much more.
 5. My peer review of Christian's work can be seen [here](). Notes 
@@ -31,3 +31,5 @@ This week will touch upon some of our overall goals that we want to achieve from
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
 * [Day 1](https://medium.com/@adam.woodcock98/6ba113e5a65d)
+* [Day 2](https://medium.com/@adam.woodcock98/its-a-strike-makers-day-7-8e9230c48000)
+* [Day 3](https://medium.com/@adam.woodcock98/i-can-do-this-can-i-do-this-makers-day-8-c4cd1c58bb04)
