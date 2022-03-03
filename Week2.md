@@ -30,6 +30,6 @@ This week will touch upon some of our overall goals that we want to achieve from
 
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
-* [Day 1](https://medium.com/@adam.woodcock98/6ba113e5a65d)
-* [Day 2](https://medium.com/@adam.woodcock98/its-a-strike-makers-day-7-8e9230c48000)
-* [Day 3](https://medium.com/@adam.woodcock98/i-can-do-this-can-i-do-this-makers-day-8-c4cd1c58bb04)
+* [Day 6](https://medium.com/@adam.woodcock98/6ba113e5a65d)
+* [Day 7](https://medium.com/@adam.woodcock98/its-a-strike-makers-day-7-8e9230c48000)
+* [Day 8](https://medium.com/@adam.woodcock98/i-can-do-this-can-i-do-this-makers-day-8-c4cd1c58bb04)
