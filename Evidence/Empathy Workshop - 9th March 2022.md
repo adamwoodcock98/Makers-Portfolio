@@ -24,50 +24,50 @@ The most important thing we can do is try.
 ### 3 Types of empathy
 
 1. Affective empathy
-  1. Emotionally you are able to feel.
-  2. Sensitive to energy
-  3. Big feelings
+  * Emotionally you are able to feel.
+  * Sensitive to energy
+  * Big feelings
 2. Cognitive empathy
-  1. Understanding of what someone is feeling, but not internalising it
-  2. Used often by novelists to build characters and doctors to avoid emotional overwhelm
-  3. When overused it can seem cold
+  * Understanding of what someone is feeling, but not internalising it
+  * Used often by novelists to build characters and doctors to avoid emotional overwhelm
+  * When overused it can seem cold
 3. Empathic concern
-  1. A blend of the above
-  2. Only internalising when appropriate
-  3. Maintaining boundaries
-  4. Understanding we do
+  * A blend of the above
+  * Only internalising when appropriate
+  * Maintaining boundaries
+  * Understanding we do
 
 ### Why might empathy be missing?
 
-* Anger
+1. Anger
   * Feeling numb towards another’s pain
   * Contempt instead of warmth, lecturing, cold reception
-* Protection
+2. Protection
   * Unconsciously feeling as though another’s pain is like a ‘virus’
   * If you allow yourself to support them you can ‘catch’ it and be closer to pain
-* Identifying
+3. Identifying
   * Another’s painful feelings might be ‘too close to home’, bringing up your own issue with the subject
   * Try to rationalise/talk them out of their feelings in an attempt to avoid your own
-* Fear of intimacy
+4. Fear of intimacy
   * Being emotionally distant distant seems easier that the risk of vulnerability and closeness
 
 ### How do we train empathy?
 
 1. ‘Just like me’
-  1. We feel naturally more empathetic when we think that a person is more like ourself
-  2. The tool is to look for something that might be similar.
+  * We feel naturally more empathetic when we think that a person is more like ourself
+  * The tool is to look for something that might be similar.
     1. Could be an interest, an emotion, a goal, a posession.
     2. Literally anything you may share with that person
     3. People will respond much more to someones energy than they do their words
 2. Metta Bhavana
-  1. A type of medidation that has long term benefits across the board
-  2. Essentially, the process is just wishing someone well
-  3. Send good vibes
-  4. It uses the premise of neuroplasticity
+  * A type of medidation that has long term benefits across the board
+  * Essentially, the process is just wishing someone well
+  * Send good vibes
+  * It uses the premise of neuroplasticity
 3. Empathetic Active Listening
-  1. Most of the time when we are listening, we are listening to talk back
-  2. Attention is the only true currency
-  3. Steps:
+  * Most of the time when we are listening, we are listening to talk back
+  * Attention is the only true currency
+  * Steps:
     1. Reflect back, paraphrase what they said
     2. Ask questions, instead of giving answers
     3. Validate emotions, even if you disagree with their logic
