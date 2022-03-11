@@ -18,14 +18,14 @@ This week will touch upon some of our overall goals that we want to achieve from
 1. Through the completion of the Oyster challenge.
 2. By completing the Oyster challenge and attending this weeks workshop.
 3. Through various different challenges and attending the workshop on mocking.
-4. Walkthrough the challenge and attend the peer review workshop.
+4. Walkthrough the challenge.
 5. Peer review a partner's work. Attend the workshop. Use resources available on peer reviewing.
 
 ## Evidence
-1. Week 1's skills are used extensively in [Oyster 1](https://github.com/adamwoodcock98/oyster-card), [Oyster 2](https://github.com/adamwoodcock98/oyster-cards-2) and [Takeaway](https://github.com/adamwoodcock98/takeaway-challenge) challenges.
+1. Week 1's skills are used extensively in [Oyster 1](https://github.com/adamwoodcock98/oyster-card), [Oyster 2](https://github.com/adamwoodcock98/oyster) and [Takeaway](https://github.com/adamwoodcock98/takeaway-challenge) challenges.
 2. Classes were split into two in several steps of the [Oyster challenge](https://github.com/adamwoodcock98/oyster-cards-2). I [blogged about the challenges faced](https://medium.com/@adam.woodcock98/i-can-do-this-can-i-do-this-makers-day-8-c4cd1c58bb04) with this topic. I also attempted this __without__ following TDD on [this branch](https://github.com/adamwoodcock98/oyster-card/tree/experimental). [Notes from the mocking workshop](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/Mocking%20Workshop%20-%201st%20March%202022.md) evidence the 'maintaining test covereage' of this goal, in addition to the mocking used in Boris Bikes, Airport, Oyster and Takeaway.
 3. [Several of the commits](https://github.com/adamwoodcock98/airport_challenge/commits/main) on last weeks Airport challenge cover some basic mocks, including `double`s, `let`s and shorthand syntax.
-4. This concept is applied through various projects already tagged in this evidence section. These challenges cover the __Single Responsibility Principle__, readability and much more.
+4. As our scope and knowledge through Makers grows, so will this goal. Various links already posted cover class extraction, projects here also look at the single responsibility principle, DRY and SOLID principles. We are also encouraged to follow [Sandi Metz' Rules for Developers](https://thoughtbot.com/blog/sandi-metz-rules-for-developers). We also looked at ease of change in our peer review workshop.
 5. My peer review of Christian's work can be seen [here](https://github.com/makersacademy/airport_challenge/pull/2483).
 
 ## Daily Reflections
