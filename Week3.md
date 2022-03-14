@@ -13,7 +13,7 @@ Build a simple web app (this primary goal breaks down into the sub-goals below):
   3. By doing research to support my understanding.
 
 ## Evidence
-1. We completed the [Battle's challenge](https://github.com/adamwoodcock98/battle), this is our first demonstration of a complete simple web application.
+1. We completed the [Battle's challenge](https://github.com/adamwoodcock98/battle), this is our first demonstration of a complete simple web application. In addition to the Battle web app, we covered this goal in our weekend challenge: [Rock Paper Scissors](https://github.com/adamwoodcock98/rps-challenge).
 2. Our ultra-simple [Sinatra cat challenge](https://github.com/adamwoodcock98/sinatra-cat) walked us through the basics of web development, following the first 16 steps of [this challenge](https://github.com/makersacademy/course/tree/main/intro_to_the_web). The [counter practical](https://github.com/makersacademy/count-sinatra) also gave us some essential basic skills, before starting the main challenges. Finally, we had a [workshop on the HTTP modelling process](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/Process%20Modelling%20Workshop%20-%208th%20March%202022.md).
 3. 
 
