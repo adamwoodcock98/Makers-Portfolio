@@ -12,8 +12,8 @@ This week we are deepening the concepts and skills we collected in [week 3](http
 3. Complete skills workshops and practicals, conduct additional research as necessary.
 
 ## Evidence
-1. 
+3. All of these points are explored in my [research notes](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/How%20do%20databases%20work.md).
 
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
-* Day 1
+* [Day 1](https://medium.com/@adam.woodcock98/the-sql-is-never-as-good-as-the-original-makers-day-16-5330bad58290)
