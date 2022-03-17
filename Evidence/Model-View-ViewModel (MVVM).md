@@ -1,4 +1,4 @@
-In this lesson we will be covering the fundamental concepts behind MVVM, how they are applied in Apple developoment, discuss the major advantages and disadvantages and work through some example code demonstrating how to put these concepts into practice.
+I'm covering the fundamental concepts behind MVVM, how they are applied in Apple developoment, discussing the major advantages and disadvantages and working through some example code demonstrating how to put these concepts into practice with bindings.
 
 Before we dive in, it may be useful to note that that MVVM was invented by Microsoft in 2005, as a new way to build apps using Windows Presentation Foundation (WPF) framework, but since has spread very far.
 
@@ -11,7 +11,7 @@ We already know from MVC, that this is often referred to as a *Massive View Cont
 
 ---
 
-*Warning: Despite sounding similar, the Presentation Model architecture is not the same as Model-View-Presenter architecture*
+**_Warning: Despite sounding similar, the Presentation Model architecture is not the same as Model-View-Presenter architecture_** 
 
 ---
 
@@ -19,7 +19,7 @@ Using presentation models requires you to write classes that are able to represe
 
 The immediate advantage to this is that we can write tests for everything your model does. You can feed any data into your model and respond with elements you can actually check, a concept that is extremely difficult when any interaction with UI elements are present.
 
-In the presentation model Apple’s view controllers are part of the **view **system as opposed to the **controller** system. The only role of the view controller becomes to respond to Apple system events that are posted there, such as `​viewDidLoad()`​. This approach works quite well on Apple systems.
+In the presentation model Apple’s view controllers are part of the **view system as opposed to the controller** system. The only role of the view controller becomes to respond to Apple system events that are posted there, such as `​viewDidLoad()`​. This approach works quite well on Apple systems.
 
 Despite the immediate advantages, MVVM presents a complex issue: if all presentation models store the current application state, and all views display application state, how are these two synchronised? This is where MVVM comes in, it was designed to take the presentation model architecture, attach a system of data-binding to remove the need to write boilerplate code connecting your views and your presentation models.
 
