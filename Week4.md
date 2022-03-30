@@ -12,8 +12,13 @@ This week we are deepening the concepts and skills we collected in [week 3](http
 3. Complete skills workshops and practicals, conduct additional research as necessary.
 
 ## Evidence
+1. The [bookmark manager](https://github.com/adamwoodcock98/bookmark-manager) project demonstrates a database in a web app, using some custom ORM. We approach this goal extensively using ActiveRecord/Rake in [week 5](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/week5.md).
+2.
 3. All of these points are explored in my [research notes](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/How%20do%20databases%20work.md).
 
 ## Daily Reflections
 I have spent time creating a blog to follow my thoughts/feelings and a record of the day-to-day on the Makers course. Any of these can be accessed by following the links for the relevant days.
 * [Day 1](https://medium.com/@adam.woodcock98/the-sql-is-never-as-good-as-the-original-makers-day-16-5330bad58290)
+* [Day 2](https://medium.com/@adam.woodcock98/oh-crud-makers-day-17-ed321995b9a1)
+* [Day 3](https://medium.com/@adam.woodcock98/lets-get-malicious-makers-day-18-95850481222e)
+* [Day 4](https://medium.com/@adam.woodcock98/wait-what-hidden-input-makers-day-19-826ab13adcf4)
