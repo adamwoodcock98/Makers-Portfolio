@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/Screenshot%202022-03-25%20at%2020.12.53.png?raw=true)
 
 Review of the MakersBnB Project
 =========
@@ -6,7 +6,11 @@ Review of the MakersBnB Project
 Table of Contents
 --------
 
-
+1. [Introduction](#Introduction)
+2. [Organisation](#Organisation)
+3. [Planning](#Planning)
+4. [Tracking our progress](#Tracking-our-progress)
+5. [Analysis](#Analysis)
 
 Introduction
 -------
@@ -22,7 +26,7 @@ Organisation
 
 We immediately setup a Slack channel so that we could stay in touch and keep our most important links readily available in the channels bookmark bar (this inevitably grew over time):
 
-![channel bookmarks]()
+![channel bookmarks](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/slack-bookmarks.png?raw=true)
 
 The first thing that we agreed was that our planning and organisation should be a priority, before we touched *any* code. We'd never worked in a team before, but we knew that things could easily spiral, and without these practices we could end up unfocused, wasting time and poorly executing the project.
 
@@ -30,7 +34,7 @@ The first thing that we agreed was that our planning and organisation should be 
 
 We setup a Trello board so that we could stay on top of our tasks, label them, categorise them and keep track of who was doing what, at a glance. I've used Trello before so I suggested starting with a To-do, doing, completed and would be nice columns. As this grew we added a doing *right now* column so that we could check what our team was up to in that moment, without disturbing them looking for an explanation. We also separated our to be review cards into dedicated to-do and completed columns.
 
-![trello]()
+![trello](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/trello-board.png?raw=true)
 
 I can't show all of our cards, but feel free to [have a scroll through online](https://trello.com/b/TRZYv4Gy/makersbnb).
 
@@ -42,7 +46,7 @@ There were quite a few workshops running throughout the week, some people had co
 
 We also had deadlines we set for our MVP and release candidate. We felt it extremely important to aim for the headline specs by the end of Thursday, to give us the time on Friday before our presentation to focus on technical debt.
 
-![schedule]()
+![schedule](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/makersbnb-schedule.png?raw=true)
 
 This system worked well, as we knew exactly how much time in hours we had for coding as we moved through the week.
 
@@ -51,7 +55,7 @@ Planning
 
 To start the planning process, we first had to explore the spec given us to us by our 'client', Makers. 
 
-## Specification
+### Specification
 
 * Any signed-up user can list a new space.
 * Users can list multiple spaces.
@@ -61,7 +65,7 @@ To start the planning process, we first had to explore the spec given us to us b
 * Nights for which a space has already been booked should not be available for users to book that space.
 * Until a user has confirmed a booking request, that space can still be booked for that night.
 
-## User stories
+### User stories
 
 From our specification, we worked through each of the headlines and created our user stories. Some of these points were simple, and others required breaking down into multiple stories. 
 
@@ -123,13 +127,13 @@ We really wanted to take our time working through these, it gave us the opportun
 
 Now that we had our user stories, we went ahead and popped these into our Trello board. Our plan was to pair on specific, related user stories.
 
-## Diagrams
+### Diagrams
 
 No planning for a web app would be complete without some diagrams. The easiest place for us to start was with:
 
 ### Entity relationship diagrams
 
-![entity-relationship-diagram]()
+![entity-relationship-diagram](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/Screenshot%202022-03-30%20at%2012.35.27.png?raw=true)
 
 It's easier to start building a picture of the app when you know the database we would build.
 
@@ -139,9 +143,9 @@ We were planning on using ActiveRecord as our ORM as opposed to a custom impleme
 
 We started by creating the request/response diagrams for our MVP and the user authentication flow.
 
-![]()
+![request-response-cycle](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/Screenshot%202022-03-30%20at%2012.34.06.png?raw=true)
 
-## MVP
+### MVP
 
 Part of our task involved producing an MVP for our web app, in order to acheive this we needed to figure out *what* exactly our MVP should consist of. To ascertain these requirements, we asked ourselves two questions:
 1. What are the most important features for Airbnb?
@@ -156,7 +160,7 @@ Tracking our progress
 
 We only had a week for our project, but we wanted to try and work in the most agile way possible. We therefore wanted to make sure we focused on eachother as individuals, and did everything possible to respond to change. We incorporated the following principles to help us work together as a team and support one another.
 
-## Stand-ups
+### Stand-ups
 
 Part of working in an agile team involves morning stand-ups, we knew these would be vital points of contact and communication for the team. Having the organisation is great, but things change, ideas evolve and requirements change.
 
@@ -166,13 +170,13 @@ On the last 2 days, when time was short, we decided to run two stand-ups in a da
 
 I wanted to ensure that we had a record of our meetings to refer back to, so I did some research at the start of the week for how they are run in an agile capacity, and we began using the following form:
 
-![first standup]()
+![first standup](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/Standup%20Meeting%20-%20Tue.jpg?raw=true)
 
-> We also recorded the audio for our first standup, which can be listened to [here]() (run by yours truly). Apologies for poor audio quality. *All members of the team gave me permission to share this here*.
+> We also recorded the audio for our first standup, which can be listened to [here](https://drive.google.com/file/d/1MvNj_Lnem1tMIi3lp9C2C9LRcRB_gXCC/view?usp=sharing) (run by yours truly). Apologies for poor audio quality. *All members of the team gave me permission to share this here*.
 
-This [Drive folder]() contains the PDFs for the rest of the week if you would like to view them. In the interest of giving everyone a chance, we rotated the leadership of these standups to whichever group members wanted to.
+This [Drive folder](https://drive.google.com/drive/folders/1HIM-TautWzrxAsBuk71st8zlAgBwz3c3?usp=sharing) contains the PDFs for the rest of the week if you would like to view them. In the interest of giving everyone a chance, we rotated the leadership of these standups to whichever group members wanted to.
 
-## Retrospectives
+### Retrospectives
 
 We run weekly retrospectives on a Friday as part of the general Makers curriculum that are very beneficial, reflective experiences. We therefore knew we wanted to use them in our group project.
 
@@ -184,9 +188,9 @@ The processes that could've gone better are an opportunity to make process impro
 
 The actions were a great opportunity to discuss what was coming next, whether something needed to be changed, to quickly run through approaches and give us a chance to form a loose plan of the next day. It also helped to set expectations across the group on what needed doing.
 
-The following is an example of the results of running our first retrospective, for photos of the rest, please check this [Drive folder]().
+The following is an example of the results of running our first retrospective, for photos of the rest, please check this [Drive folder](https://drive.google.com/drive/folders/1lKpsfTU_nqAnOb1N7fAWRTBJwiV1oZb4?usp=sharing).
 
-![monday retro]()
+![monday retro](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Evidence/IMG_2986%20(1).jpg?raw=true)
 
 Analysis
 ------
@@ -195,9 +199,9 @@ This group project is as much akin to the professional workflow that we will be 
 
 I have approached this as a modified SWOT analysis, not with any recognised analysis model, just what I felt was relevant to the project.
 
-## Strengths
+### Strengths
 
-### Organisation
+#### Organisation
 
 First and foremost, I feel that the main strength of our group was our organisation. I've already spoken heavily in this review of the tools we used to achieve this, but more than just the fact that we used these, we *stuck* to them. Every member of the team made a point of using our Trello board, keeping cards up-to-date, adding new ones when necessary, including pull request reviews and appropriate tagging and member assignment. We stuck to the schedule, including being regemented with our stand-ups and retrospectivs.
 
@@ -205,31 +209,33 @@ The product of this organisation was efficiency, we rarely had to interrupt othe
 
 Every member of our team played their part in the success of this structure, but a need for organisation runs deep within my bones, so I must give myself some credit for pushing this so hard when we started the course and getting these resources up and running.
 
-### Work ethic
+#### Work ethic
 
 This is not so much a strength, more a lack of a problem. There wasn't a single point where it felt like a specific member of the team was 'not pulling their weight', we all worked extremely hard, everyone did as much as they could, actively partook in discussions, jumping in to help other members and so much more. We were all prompt and showed in whatever ways the group demanded. I am extremely grateful for my team in this respect, we all know that a chain is only as strong as its weakest link.
 
-### Separation of responsibilities
+#### Separation of responsibilities
 
 From get-go, whether it was 100% planning, or mostly planning and a little luck, but we broke down our workload into steps that worked very well. This meant that there were very few moments - other than those that were inherently unavoidable - where we felt we needed the output of another individual or pair in order to achieve what we needed to achieve.
 
-### Fluidity
+#### Fluidity
 
 On the first day of the project when we were planning the format of our pairing, we felt it pertinent to create a system that would allow us to swap partners regularly, without creating defecits in our output through a lack of understanding. We had clear goals, and we never fully swapped a pair when individual tasks of a larger grouping were completed. We always kept one person from a pair working on a group of tasks after a swap, so that they could bring people up to speed as they worked, so the ball was never dropped. This did not mean that one person stayed on a group of tasks the entire team, just each time a swap happened.
 
-### Support of team learning
+#### Support of team learning
 
 There were times when a specific member of the group had the responsibility of learning something new for the project, or completing a big piece of functionality. Even though time was short, we made of point of going through anything new as a group, to ensure that everyone gained the fruits of that knowledge that they could apply going forward.
 
-## Weaknesses
+#### Communication
 
-### Unhealthy balance
+For the duration of the project our communication was excellent, some of this was aided quite heavily by our organisation already mentioned, but we did well in other areas of communication too. Conflicts were resolved respectfully and efficiently, thoughts and feelings were properly acknolwedged, validated and actioned. In the appropriate agile way, we kept our stand-ups brief and our retrospectives succint, keeping off-topic discussions noted but off to one side for later review.
+
+### Weaknesses and challenges
+
+#### Unhealthy balance
 
 As much as I have already praised our work ethic, it would be non-objective of me to criticise when this became unhealthy. We did of course want to do well, and achieve all of those goals, but it would've been better to do this with a healthy balance. More than half of the team, myself included, were working late into the evenings. Most of the things that we did were non-essential, in my case I did most of our CSS at home, which is most likely why we were able to achieve a more stylised look than other groups in the cohort, even if it would still not win any prizes for its design.
 
-## Challenges
-
-### ActiveRecord, user authentication and Rake
+#### ActiveRecord, user authentication and Rake
 
 I don't think we quite realised how much of a pivotal point this proves to be. None of us in the group had used ActiveRecord before, and we would end up having Paul fly solo to research this, and pair implement it with Sam.
 
@@ -237,42 +243,55 @@ We decided to use Rake alongside ActiveRecord to handle all of our migrations, a
 
 The issues weren't huge, but they were time consuming, everytime we needed to make changes, we had to check whether rake was working, then do things manually anyway, across the entire team.
 
-### The MVP
+#### The MVP
 
 It was debating this topic that we had our first disagreement within the group; most of us had agreed on the aforementioned 2 features for our MVP. One member of our group felt quite strongly that user authentication sign in/sign out had a place in the MVP. Truthfully, I could see the point, however, as mentioned the project is essentially one big MVP and in that scope authentication makes sense, but with our timescales and priorities this was a little out of scope.
 
 Despite the small conflict, we heard their points, ensuring we gave thoughtful answers and asked questions to help both them, and us, understand and confirm that not including this was the best move we could make for our group. Eventually, we all settled that this would be our MVP and that authentication would be coming next.
 
-## Obstacles
+#### Team Git
 
-### Other timetabled commitments
+By the end of the week we had nailed down our Git flow as a team, conflicts were resolved before pulling and our branches/merges were well planned and efficient. On Tuesday when we first got to coding, however, our use of Git among the team definitely cost us some of our precious time. We had agreed for one individual to commit to main for the basic project setup, but a couple sneaky, unplanned commits made their way there too. This meant we had to spend a good chunk of time getting to grips with how to repair our main branch and getting everyone back up to date.
 
-We actually lost a significant amount of our time during the week to other activities on our Makers timetable. For instance on the Wednesday, we each had about 1 hour of coding time throughout the entire day. 
+It's a given then when doing something for the first time there are bound to be mistakes, it's a learning process, but that process definitely acted as an obstacle and it meant that we did not get into some truly effective coding until after midday.
 
-## How to improve / what would I do differently next time
+### Obstacles
 
+#### Other timetabled commitments
 
+We actually lost a significant amount of our time during the week to other activities on our Makers timetable. For instance on the Wednesday, we each had about 1 hour of coding time throughout the entire day. The planned activities themselves were without a doubt beneficial, it was just a little frustrating that we did not have the time to put towards our project.
 
-## Teamworking
+#### Time
 
+This is a funny one, and as I've touched on throughout this review time was most definitely not on our side as we completed the project. Although we managed to get everything completed, other than the CSS, we did not manage to complete any 'would be nice' features.
 
+I don't doubt that it's the same story for pretty much any project anyone endeavours to complete, and I'm of course glad to move on to more exciting topics and projects on the course. I would have loved to have spent some more time fleshing out the functionality of the app.
 
-## Lessons learned
+### Lessons learned
 
-### Request/response cycle diagrams
+#### Request/response cycle diagrams
 
 When building web apps that have a lot more functionality such as this one, the routes quickly start to pile up. On the last day of the project, we ran into some difficulty when joining up work that different pairs had completed. The routes were not working together, and were funcitoning in different ways, so when it came to the integration we had a lengthy debugging process that took much longer than it should've.
 
 In hindsight, had we done the diagramming for this functionality, there would've been no confusion, we'd have all been working from the same assumptions, and the integration would've been much simpler.
 
-### Not using Rake
+#### Not using Rake
 
 As I've already spoken about, Rake did not function as we had expected it to. Paul was responsible at the beginning of the project for getting ActiveRecord and Rake setup. With no experience using either library prior to this project, it took him quite a long time to get setup. Had we only focused on setting up ActiveRecord, this process would've been done much quicker, meaning we could've used this quicker, saving time for the rest of us from manually creating ORM functions to read/write data from/to our database.
 
-### Remaining calm
+#### Remaining calm
 
 There were definitely times throughout the project that we all felt stress about what we needed to achieve. The reality is that we should've trusted in our planning and organisation, we always remained on track and there was never an indication that this might change.
 
 I know a lot of this stress was attributed to the fact that this was our first group project and we wanted to do well, however it was entirely unneccessary, and there would've no doubt been a process improvement had we not been feeling this way at various times.
 
-## Project highlights
+Summary
+--------
+
+All-in-all I feel the project went extremely well, we completed all of the headline specification, we ended up with a web app that looked reasonably good considering our lack of design experience and time. I'm proud of the work we outputted, and even though we absolutely could've done more, I don't feel like we *needed* to do more.
+
+Our presentation went well, and we received a lot of praise from our peers, and there was a lot of feedback to be given too.
+
+Most importantly, I had such an amazing time doing the project. The vibes among the group were excellent, the tone was for the most part upbeat, we supported each other, laughed and had a lot of fun. This was our first taste of what it's like to work in a professional team, and it left an extremely sweet taste in my mouth through both the highs and lows.
+
+We learned so much, some things didn't go as well as others, but I can action those changes for the next group project, and bring forward the areas that did go well. I can't wait to see what happens in our next group project.
