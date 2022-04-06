@@ -3,6 +3,11 @@
 Review of the MakersBnB Project
 =========
 
+The Project
+------
+
+This is simply a review of our MakersBnB project (ScareBnB) that I chose to do, in order to critically review the process. To see the actual project (including a README), please [go the repo](https://github.com/adamwoodcock98/makersbnb).
+
 Table of Contents
 --------
 
