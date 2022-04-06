@@ -13,7 +13,7 @@ This week we are deepening the concepts and skills we collected in [week 3](http
 
 ## Evidence
 1. The [bookmark manager](https://github.com/adamwoodcock98/bookmark-manager) project demonstrates a database in a web app, using some custom ORM. We approach this goal extensively using ActiveRecord/Rake in [week 5](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/week5.md).
-2.
+2. I completed a walkthrough of this process [here](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/debugging-2.md).
 3. All of these points are explored in my [research notes](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/How%20do%20databases%20work.md).
 
 ## Daily Reflections
