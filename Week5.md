@@ -15,7 +15,7 @@ For the first time, we will be completely unguided, given only a headline spec f
 
 This week functioned a little differently in terms of evidencing all of the above goals. Goals 1, 2, 4 and 5 are evidences in the [repo for our team's Makersbnb (ScareBnB) project](https://github.com/adamwoodcock98/makersbnb).
 
-I also completed a *very* detailed [review of this project](https://github.com/adamwoodcock98/MakersPortfolio/edit/main/Evidence/ScareBnB%20Review.md), containing evidence for goal 3, whilst critically analysing our performance of the other goals and a lot, lot more. It contains evidence, photos, documents, screenshots and even audio files from our time, this was a big project and I wanted to encapsulate as much information as possible.
+I also completed a *very* detailed [review of this project](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Review.md), containing evidence for goal 3, whilst critically analysing our performance of the other goals and a lot, lot more. It contains evidence, photos, documents, screenshots and even audio files from our time, this was a big project and I wanted to encapsulate as much information as possible.
 
 As per usual, I have included my blog posts below, the posts for these days are slightly longer than normal, but if the review wasn't enough, then these posts will breakdown events, thoughts and feelings as they happened throughout the week.
 
