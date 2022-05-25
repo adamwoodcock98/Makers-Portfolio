@@ -1,4 +1,4 @@
-### How might empathy show up as developers, and why might this be important? [Breakout activity]
+### How might empathy show up as developers, and why might this be important?
 
 1. Avoiding bias in code
 2. Working with people who have a different path to the side
