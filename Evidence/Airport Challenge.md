@@ -1,5 +1,4 @@
-Setup
-=====
+A walkthrough of our very first weekend challenge - Airport - at Makers Academy.
 
 User Stories
 ------------
