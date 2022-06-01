@@ -23,7 +23,7 @@ The main goal of this project is high-quality teamwork, there is a lot of eviden
 - [Retrospectives](https://drive.google.com/drive/folders/1RGuPWrMwr7G3R5DuXjm9aj-FP8d5qJ6C?usp=sharing).
 - [Ideation](https://drive.google.com/drive/folders/17h7f3xi684vGdI-1A-TWZHPgGlUHghDN?usp=sharing).
 
-Some of the project criteria are covered in the above, the remaining are evidenced in the [project repo]()'s README, commits and files.
+Some of the project criteria are covered in the above, the remaining are evidenced in the [project repo](https://github.com/adamwoodcock98/koala)'s README, commits and files.
 
 Reflections
 ----------
